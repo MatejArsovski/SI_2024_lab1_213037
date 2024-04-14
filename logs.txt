@@ -1,0 +1,30 @@
+commit 3d72119efd0e9bc761f18e98d1be0f287a2fbe1e (HEAD -> master, origin/master)
+Merge: 96483a0 a37a2cb
+Author: MatejArsovski <166020811+MatejArsovski@users.noreply.github.com>
+Date:   Sun Apr 14 19:54:21 2024 +0200
+
+    Merge pull request #2 from MatejArsovski/bug2
+
+    Bug2
+
+commit a37a2cbd6de7d6aa9b3adca0b9fcab334bef404a (origin/bug2, bug2)
+Merge: 2397357 96483a0
+Author: MatejArsovski <166020811+MatejArsovski@users.noreply.github.com>
+Date:   Sun Apr 14 19:53:32 2024 +0200
+
+    Resolve conflicts
+
+commit 96483a07561c86380d8de9395cde2c65f2c3daca
+Merge: a227bf2 1f42696
+Author: MatejArsovski <166020811+MatejArsovski@users.noreply.github.com>
+Date:   Sun Apr 14 19:37:45 2024 +0200
+
+    Merge pull request #1 from MatejArsovski/bug1
+
+    Bug1
+
+commit 2397357ebde2f2205a6768ec674ee44c26e21364
+Author: MatejArsovski <166020811+MatejArsovski@users.noreply.github.com>
+Date:   Sun Apr 14 19:33:54 2024 +0200
+
+:

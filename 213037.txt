@@ -1,0 +1,21 @@
+Работи што ги користев за да ја решам задачата во Command Prompt
+
+1. git init - почеток на git во тековниот директориум
+2. git add . - додавање на сите промени во version control
+3. git push - испраќање на промените на GitHub
+4. git checkout -b "bug1" - креирање на гранка "bug1"
+5. git branch - проверка на моменталната гранка
+6. git checkout master - префрлување на master гранката
+7. git checkout -b "bug2" - креирање на гранка "bug2"
+8. Тука направив git checkout bug1,па после тоа направив промени во SILab1_1, git status, и на крај направив git add .,и како последно додадов git commit -m "..."
+9. Тука направив git checkout bug2, направив промени во SILab1_2, git status,и на крај додадов git add .,и како последно додадов git commit -m "..."
+10. git checkout bug1, направив промени во SILab1Main
+11. git checkout bug2, направив промени во SILab1Main
+12. git checkout master, git merge bug1, git push origin bug1
+13. спојување на master
+14. git checkout master, git pull
+15. git checkout bug2, git merge master
+16. решавање на конфликти
+17. git push origin bug2
+18. спојување со master на remote repo
+19. git checkout master, git pull
